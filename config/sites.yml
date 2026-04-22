@@ -1,0 +1,6 @@
+sites:
+  - url: https://link.springer.com/article/10.1007/s10994-021-06119-y
+    timeout: 15
+  - url: https://elibrary.ru/item.asp?id=54313730
+    timeout: 15
+  - url: https://example.com
